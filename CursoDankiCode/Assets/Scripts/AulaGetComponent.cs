@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class AulaGetComponent : MonoBehaviour
 {
+    
     public Rigidbody rig;
     private BoxCollider box;
 
