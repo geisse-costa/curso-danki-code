@@ -12,7 +12,7 @@ public class AulaArray : MonoBehaviour
     {
         Debug.Log(meusInimigos[2]);
     }
-
+    
     // Update is called once per frame
     void Update()
     {
