@@ -16,7 +16,7 @@ public class Player : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
         //Atacar
         if(Input.GetKeyDown(KeyCode.X))
@@ -47,6 +47,8 @@ public class Player : MonoBehaviour
         {
             anim.SetBool("isRun", false);
         }
+
+
     }
 
 }
