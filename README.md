@@ -22,4 +22,4 @@ O conteúdo disponibilizado faz parte do meu desenvolvimento no curso, que abran
 Durante o curso, foram disponibilizados assets, músicas e efeitos sonoros para o desenvolvimento do jogo.
 
 ## 📃 Licença
-Você é livre para usar, copiar, modificar e distribuir este jogo.
+Você é livre para usar, copiar, modificar e distribuir este jogo. 
