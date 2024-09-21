@@ -8,18 +8,17 @@ A <a href="https://dankicode.com/">Danki Code</a> é uma plataforma de ensino de
 
 ## 🎮 Sobre o Curso e o Conteúdo Disponibilizado
 O conteúdo disponibilizado faz parte do meu desenvolvimento no curso, que abrangeu os seguintes tópicos:
-- Introdução à Unity
-- Criação de jogos 2D
-- Movimentação e Física 2D
-- Animação e Interações
-- Colisores e Triggers
-- Desenvolvimento de Inimigos
-- Controle de Câmera (Cinemachine)
-- Implementação de Sons (Audio Source)
-- Interface de Usuário (UI): Botões e Menus
-- Apresentação do Projeto Final
+- Introdução à Unity;
+- Criação de jogos 2D e 3D;
+- Movimentação e Física;
+- Animação e Interações;
+- Colisores e Triggers;
+- Desenvolvimento de Inimigos;
+- Controle de Câmera (Cinemachine);
+- Implementação de Sons (Audio Source);
+- Interface de Usuário (UI): Botões e Menus.
 
 Durante o curso, foram disponibilizados assets, músicas e efeitos sonoros para o desenvolvimento do jogo.
 
 ## 📃 Licença
-Você é livre para usar, copiar, modificar e distribuir este jogo. 
+Você é livre para usar, copiar, modificar e distribuir este jogo.
